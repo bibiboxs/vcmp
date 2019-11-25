@@ -1,3 +1,6 @@
+# 下载脚本 \ Download
+[Download Script and Stores](http://example.com/ "Download"). 
+
 # 包含什么？
 文件夹：scripts、store  
 服务端脚本文件：scripts\SpeedTable.nut  
