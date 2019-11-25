@@ -23,3 +23,5 @@ Client material file: store\sprites
 2. Use any method to load or place "store\scripts\SpeedTable.nut" into your client script.  
 3. Place the contents of "store\sprites" into your server resource  
 4.Have fun, test!  
+
+![avatar](https://github.com/bibiboxs/vcmp/blob/master/VehicleDashboard/image.jpg?raw=true)
