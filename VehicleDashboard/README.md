@@ -1,5 +1,5 @@
 # 下载脚本 \ Download
-[Download Script and Stores](http://example.com/ "Download"). 
+[Download Script and Stores](https://github.com/bibiboxs/vcmp/blob/master/VehicleDashboard/script+stores.zip?raw=true "Download"). 
 
 # 包含什么？
 文件夹：scripts、store  
