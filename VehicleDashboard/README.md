@@ -10,15 +10,15 @@
 3.将"store\sprites"里面的内容放置进您的服务器资源中
 4.Have fun, test！
 
--
+---
 
-#What is included?
+# What is included?
 Folder: scripts, store
 Server script file: scripts\SpeedTable.nut
 Client script file: store\scripts\SpeedTable.nut
 Client material file: store\sprites
 
-#how to use?
+# how to use?
 1. In your script, pass "onPlayerEnterVehicle" and "onPlayerExitVehicle" respectively to the client to pass data (refer to "scripts\SpeedTable.nut")
 2. Use any method to load or place "store\scripts\SpeedTable.nut" into your client script.
 3. Place the contents of "store\sprites" into your server resource
