@@ -2,7 +2,7 @@
 
 
 
-> **VC-MP中文输出套件，是由两点半动力工作室（230club.com）开发的VC-MP服务端套件，以十分简单高效的方式，实现对VC-MP的服务器输出汉化，未来可能会实现更多功能（如中文输入）。**
+> **VC-MP中文输出套件，是由MP-Gamer.Com开发的VC-MP服务端套件，以十分简单高效的方式，实现对VC-MP的服务器输出汉化，未来可能会实现更多功能（如中文输入）。**
 
 > **开发人员：**bbbb & Ctone
 
@@ -108,7 +108,7 @@ function CNInputManager_MessagePlayer_Label( text, player ) //以英文方式输
 ### 套件版权声明
 
 《VC-MP中文套件》 服务端+客户端组合内容
-由【两点半动力】开发及版权所有，包括但不限于UI、字库及贴图、源代码等
+由【MP-Gamer.Com】开发及版权所有，包括但不限于UI、字库及贴图、源代码等
 
 请尊重任何原创知识产权，尊重原创内容
-更多内容请访问：[230club.com](http://www.230club.com/)
+更多内容请访问：[MP-Gamer.Com](https://www.mp-gamer.com/)
