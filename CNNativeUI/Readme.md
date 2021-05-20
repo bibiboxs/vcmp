@@ -1,7 +1,7 @@
 This component has not written any help documents, please read the code based on your own experience, and use translation tools to try to understand the Chinese content, and finally put it on your server
 
 #A test
-
+```
 curClass = GameCMenuUIs.Casino;	
 if( active )
 {
@@ -20,5 +20,5 @@ if( active )
 }else{
   GameCMenuUIs.Casino = null;
 }
-
+```
 This is just a simple example, just to provide some help, you can use it in this way after the correct installation
