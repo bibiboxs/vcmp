@@ -1,0 +1,1 @@
+This component has not written any help documents, please read the code based on your own experience, and use translation tools to try to understand the Chinese content, and finally put it on your server
